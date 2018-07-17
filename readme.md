@@ -1,0 +1,3 @@
+getEkikaraData
+
+えきから時刻表の駅別時刻表のconsoleに突っ込むとその駅の時刻表をjsonにして取れます
